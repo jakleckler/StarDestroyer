@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">StarDestroyer</string>
+    <string name="username">Username</string>
+    <string name="button_accept">Accept</string>
+    <string name="password">Password</string>
+    <string name="password_conf">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">E-mail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
